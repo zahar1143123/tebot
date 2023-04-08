@@ -4,6 +4,8 @@ import requests
 import json
 from sqlite3 import *
 
+print('hello world')
+
 bot = TeleBot('6087747134:AAHAfqb26G2t6BZzHzOhaNgbmjJkou_DmQ4')
 key = '2d4cce9fc699bac5e5d7fd71d7a25273'
 
